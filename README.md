@@ -26,13 +26,13 @@ I will use supervised regression models to predict continuous salary values base
 Classification Techniques (for Job Role Recommendation)
 I will apply multi-class classification algorithms to assign a candidate to the most suitable AI role category (e.g., Data Scientist, ML Engineer, NLP Specialist) based on input features.
 
-5. The expected results<br>
+4. The expected results<br>
 The project will yield a functional prototype or dashboard where users can input their profile (skills, education, experience, location) and receive both:
 - A predicted salary range.
 - Recommended AI job roles matching their attributes.<br>
 This output will serve as a decision-support tool for job seekers and recruiters alike, enabling data-driven career planning and compensation benchmarking
 
-4. Why this question is important?<br>
+5. Why this question is important?<br>
 This research question is important because it addresses the growing need for data-driven transparency and personalization in the rapidly evolving global AI job market. Traditional methods of assessing salaries and matching candidates to roles are often inconsistent and outdated. By applying machine learning techniques, this study aims to predict fair and competitive salaries while recommending optimal AI job roles based on individual skills, experience, and location.
 Such an approach benefits both job seekers and employers, helping professionals make informed career decisions and enabling organizations to align hiring and compensation strategies with real market trends. Academically, the project demonstrates how predictive analytics and recommendation systems can be combined to solve complex, real-world labor market challenges.
 
